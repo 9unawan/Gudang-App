@@ -1,1 +1,2 @@
 "# Gudang-App" 
+"# NuxtJS" 
